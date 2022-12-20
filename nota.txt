@@ -1,2 +1,2 @@
 #How to Resolve Git Merge Conflict"
-<h2> El autor es Eutiquio</h2>
+<p> El autor es Eutiquio</p>
